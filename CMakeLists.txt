@@ -4,4 +4,4 @@ project(Fifo)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Fifo
-        Fifo.c)
+        Fifo_Preorder.c)
